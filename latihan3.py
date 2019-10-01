@@ -36,15 +36,15 @@ def main():
    print("DATA:")
    print("a = 12 \nb = 5" "\nc =", c, "\nd =", d)
    print("\nmenampilkan hasil dari operator mul(perkalian)")
-   print("a pangkat b: ", a * b)
-   print("b pangkat b: ", b * b)
-   print("b pangkat d: ", b * d)
+   print("a * b: ", a * b)
+   print("b * b: ", b * b)
+   print("b * d: ", b * d)
 
    
    print("\nmenampilkan hasil dari operator gt(lebih besar)")
-   print("a mod b: ", a > b)
-   print("a mod c: ", a > c)
-   print("b mod d: ", b > d)
+   print("a lebih besar b: ", a > b)
+   print("a lebih besar c: ", a > c)
+   print("b lebih besar d: ", b > d)
    
    
    
